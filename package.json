@@ -1,0 +1,31 @@
+{
+  "name": "video-dimensions",
+  "version": "0.1.0",
+  "description": "**A simple command line tool to find the width and height a video**",
+  "main": "index.js",
+  "bin": {
+    "video-dimensions": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "olizilla <oli@tableflip.io> (https://tableflip.io)",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "get-video-dimensions": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tableflip/video-dimensions.git"
+  },
+  "keywords": [
+    "width",
+    "height",
+    "video"
+  ],
+  "bugs": {
+    "url": "https://github.com/tableflip/video-dimensions/issues"
+  },
+  "homepage": "https://github.com/tableflip/video-dimensions#readme"
+}
