@@ -5,7 +5,7 @@
 ## Install
 
 ```sh
-npm install -g video-dimensions
+npm install -g get-video-dimensions-cli
 ```
 
 This tool requires `ffprobe` to do the hard work, which is part of `ffmpeg`

@@ -1,5 +1,5 @@
 {
-  "name": "video-dimensions",
+  "name": "get-video-dimensions-cli",
   "version": "1.0.0",
   "description": "**A simple command line tool to find the width and height a video**",
   "main": "index.js",
